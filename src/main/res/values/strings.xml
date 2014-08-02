@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AltFSMAndroid</string>
+    <string name="user_name_hint">username</string>
+    <string name="user_age_hint">age</string>
+    <string name="age_error_input">Introduce a valid age, please</string>
+
+    <!-- LivingActivity-->
+    <string name="start_eating">Start Eating</string>
+    <string name="stop_eating">Stop Eating</string>
+
+    <string name="start_watching_tv">Start Watching TV</string>
+    <string name="stop_watching_tv">Stop Watching TV</string>
+
+    <string name="start_studying">Start Studying</string>
+
+    <string name="go_out">Go Out</string>
+    <string name="come_back">Come Back</string>
+
+    <string name="friend_arrives">Friend Arrives</string>
+
+    <string name="start_getting_ready">Start Getting Ready</string>
+
+    <string name="logoff">Log Off</string>
+
+    <!-- GettingReadyActivity -->
+    <string name="start_showering">Start Showering</string>
+    <string name="stop_showering">Stop Showering</string>
+
+    <string name="start_getting_dressed">Start Getting Dressed</string>
+    <string name="finished_getting_dressed">Finished Getting Dressed</string>
+
+    <!-- StudyingActivity -->
+    <string name="choose_book">Choose Book</string>
+
+    <string name="start_reading">Start Reading</string>
+    <string name="stop_reading">Stop Reading</string>
+
+    <string name="set_tasks">Set Tasks</string>
+
+    <string name="stop_studying">Stop Studying</string>
+
+    <!-- SettingTasksActivity -->
+    <string name="tasks_title">Tasks</string>
+    <string name="stop_setting_tasks">Stop Setting Tasks</string>
+    <string name="append_task">Append Task</string>
+
+</resources>
